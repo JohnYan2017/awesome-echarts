@@ -139,6 +139,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Jupyter-Notebook
 
 - [jupyter-echarts](https://github.com/pyecharts/jupyter-echarts) @pyecharts dev team - Integrates ECharts with jupyter notebook via nbextensions
+- 🇨🇳 [smartchart](https://github.com/JohnYan2017/Echarts-Django) @JohnYan2017 - Make ECharts simple to use in jupyter notebook.
 
 ### .NET
 
